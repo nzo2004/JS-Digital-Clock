@@ -1,5 +1,7 @@
 Bu uygulama, Javascript kullanılarak oluşturulmuş basit bir saattir. Her saniye güncellenerek, size güncel saati gösterir.
 
+Burda Javascript kodlarını ne işe yarayacağını anlatıcam =
+
 var now = new Date(); = Anlık genel zaman bilgisini çekmek için kullanılır
 
 var hour= now.getHours(); = Anlık saati alıyoruz.
